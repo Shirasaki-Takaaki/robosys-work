@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "practice")
+set(practice_MAINTAINER "shirasaki <shirasaki@todo.todo>")
+set(practice_DEPRECATED "")
+set(practice_VERSION "0.0.0")
+set(practice_BUILD_DEPENDS "rosccp")
+set(practice_RUN_DEPENDS "rosccp")
+set(practice_BUILDTOOL_DEPENDS "catkin")
